@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "moduleResolution": "node",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "charset": "utf8",
+    "rootDir": "src",
+    "outDir": "build",
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "*/*"
+  ]
+}
